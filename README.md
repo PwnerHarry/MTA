@@ -1,6 +1,6 @@
 # META
 
-Implementation of the paper "META-Learning State-based Eligibility Traces for More Sample-Efficient Policy Evaluation" [1]. Watch the video of the paper here: https://www.youtube.com/watch?v=3Ud8Ils1_mo
+Implementation of the paper "META: State-based Eligibility Traces for More Sample-Efficient Policy Evaluation" [1]. Watch the video of the paper here: https://www.youtube.com/watch?v=3Ud8Ils1_mo
 
 The "ringworld" tests use our implemented version of the environment.
 
@@ -24,7 +24,7 @@ Please kindly cite our work if necessary:
 
 ```
 @inproceedings{zhao2020meta,
-title={META-Learning State-based Eligibility Traces for More Sample-Efficient Policy Evaluation},
+title={META: State-based Eligibility Traces for More Sample-Efficient Policy Evaluation},
 author={Zhao, Mingde and Luan, Sitao and Porada, Ian and Chang, Xiao-Wen and Precup, Doina},
 booktitle = {International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
 year = {2020},
